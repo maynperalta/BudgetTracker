@@ -1,3 +1,4 @@
+//Variable with files to cache
 const FILES_TO_CACHE = [
   "/",
   "/styles.css",
@@ -20,7 +21,7 @@ self.addEventListener("install", function (evt) {
     })
   );
 });
-
+// activate
 self.addEventListener("activate", function (evt) {
   evt.waitUntil(
     caches.keys().then((keyList) => {
