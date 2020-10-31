@@ -2,9 +2,12 @@
 
 ## Introduction
 This is a budget tracker PWA which allows users to track expenses with the ability to access functionality while offline.
+<br/>
 ![](public/assets/budgetdemo.gif)
 <br/>
 Gif of app functionality
+
+<br/>
 
 ## Technologies used
 * HTML
@@ -27,7 +30,6 @@ Using the budget tracker PWA application, users are able to add expenses and dep
 ![](public/assets/budgetpwa.png)
 <br/>
 Screenshot of application
-
 <br/>
 <br/>
 
